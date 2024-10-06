@@ -2,7 +2,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
-.insidebox{
+.withinbox{
     margin:1%;
     border: 3px dotted purple;
     padding-top:10%;
