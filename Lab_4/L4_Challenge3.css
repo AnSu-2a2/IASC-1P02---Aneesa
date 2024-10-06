@@ -1,0 +1,19 @@
+.mainsection{
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div div{
+    margin:0px 15px 0px 15px;
+    border:3px dotted black;
+    color: red;
+    padding-bottom:15px;
+}
+
+span{
+    color: darkgreen;
+}
+
+div ~ p{
+    color:purple;
+}
