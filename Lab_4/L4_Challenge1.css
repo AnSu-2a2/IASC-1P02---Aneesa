@@ -1,0 +1,29 @@
+body{background-color: blue;}
+
+.Bigbox{
+    margin: 10% 5% 20% 5%;
+    border: 5px solid black;
+}
+
+.Textbox{
+    margin:1%;
+    border:2px dashed green;
+    padding-left:5px;
+}
+
+p{
+    color:red;
+    font-family: calibri, sans-serif;
+    font-weight: lighter;
+}
+
+.Photobox{
+    margin-right:83%;
+    border: 2px dashed pink;
+    padding:1%;
+}
+
+img{
+    width:200px;
+    height:300px;
+}
