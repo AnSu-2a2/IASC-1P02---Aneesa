@@ -1,0 +1,28 @@
+body{height:987px;}
+#wrapper{
+    width:1604px;
+    margin: 0 auto;
+    padding-top: 5px;
+    color: white;
+}
+
+#header{
+    background-color: red;
+    height: 70px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#leftSide{
+    background-color: green;
+    padding-top: 10px;
+    height: 650px;
+}
+
+#footer{
+    background-color: blue;
+    padding-top:20px;
+    height:75px;
+}
