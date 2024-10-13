@@ -1,40 +1,44 @@
 body{
-    background-color: green;
+	background-color:green;
+    font-weight: bold;
 }
 
+
 #wrapper{
-    font-size 20px;
-    font-weight: bold;
-    margin: 0 auto;
+	width:900px;
+	margin:-20px auto;
 }
 
 #header{
-    width: 900px;
-    height: 100px;
+	height:50px;
+	text-align:center;
     background-color: red;
-    text-align: center;
-    font-size: 25px;
 }
 
-#pink{
-    float: left;
-    width: 300px;
-    height: 100px;
-    background-color: pink;
-    padding-top: 10px;
+#leftbody{
+	float:left;
+	width:290px;
+	height: 50px;
+	background-color:pink;
+	padding:5px;
+
+}
+#rightbody{
+	float:right;
+	width:590px;
+	height:50px;
+	background: orange;
+	padding:5px;
 }
 
-#orange{
-    float:left;
-    width: 600px;
-    height: 100px;
-    background-color: orange;
-    padding-top:10px;
-}
-
-#blue{
-    clear: left;
-    width: 900px;
+#content{
+    clear:left;
     background-color: blue;
-    margin: 0 auto;
+    height: 525px;
+}
+
+#bottom{
+	height:50px;
+	clear:left;
+    background-color: yellow;
 }
