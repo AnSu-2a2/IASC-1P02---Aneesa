@@ -1,0 +1,33 @@
+#wrapper{
+    background-color: green;
+    height: 675px;
+}
+
+#blue{
+    background-color: blue;
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+#red{
+    background-color: red;
+    position: absolute;
+    top: 20px;
+    right: 200px;
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+#yellow{
+    background-color: yellow;
+    position: absolute;
+    bottom: 100px;
+    left: 600px;
+    width: 250px;
+    height: 250px;
+}
