@@ -10,7 +10,6 @@
     left: 200px;
     width: 250px;
     height: 250px;
-    float: left;
 }
 
 #red{
@@ -20,7 +19,6 @@
     right: 200px;
     width: 250px;
     height: 250px;
-    float: left;
 }
 
 #yellow{
