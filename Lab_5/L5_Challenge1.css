@@ -10,10 +10,8 @@ body{height:900px;}
 #header{
     background-color: red;
     height: 70px;
-    padding-top: 30px;
+    padding: 15px;
     text-align: center;
-    font-size: 30px;
-    font-weight: bold;
 }
 
 #leftSide{
