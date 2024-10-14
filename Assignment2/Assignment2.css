@@ -1,0 +1,31 @@
+.red{
+    color:red;
+}
+
+.category{
+    font-family:fantasy;
+}
+
+h1{
+    text-transform: uppercase;
+    position: fixed;
+    top: 5px;
+    background-color: gray;
+    width: 1000px;
+}
+
+.records{
+    position:absolute;
+    right: 50px;
+    top: 50px;
+}
+
+a{
+    font-size: 13px;
+    position: relative;
+}
+
+.toppings, .bread{
+    position: relative;
+    top: 150px;
+}
