@@ -19,5 +19,5 @@ function product(){
 
 function quotient(){
     document.getElementById("output").innerHTML=six
-    console.log(one,two,three,four,five,six);
+    console.log(six);
 }
