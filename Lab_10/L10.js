@@ -8,19 +8,23 @@ var six=one/two;
 function sum(){
 
     document.getElementById("output").innerHTML=three;
+    console.log(three);
 }
 
 function diff(){
 
     document.getElementById("output").innerHTML=four;
+    console.log(four);
 }
 
 function product(){
 
     document.getElementById("output").innerHTML=five;
+    console.log(five);
 }
 
 function quotient(){
 
     document.getElementById("output").innerHTML=six;
+    console.log(six);
 }
