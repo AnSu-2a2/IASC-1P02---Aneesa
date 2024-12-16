@@ -1,0 +1,192 @@
+/*Website-wide styling */
+body{background-color: #dcffaf;}
+
+.wrapper{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: white;
+    width: 900px;
+    height: 1500px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+/*Website-wide styling, Header elements*/
+.header{
+    height: 150px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    margin: 5px 0px;
+}
+
+h1{
+    font-size: 50px;
+    color: green;
+    font-family: "Bradley Hand ITC", "Brush Script MT", cursive, sans-serif;
+    text-align: center;
+    height: 50px;
+}
+
+.BackArrow{
+    width:80px;
+    height:auto;
+    float:left;
+    padding: 0px 40px;
+}
+
+.PageTitle{
+    font-size:30px;
+    color: black;
+    width: 560px;
+    text-align:center;
+    float: left;
+}
+
+.FrontArrow{
+    width: 80px;
+    height: auto;
+    padding: 0px 40px;
+}
+
+/*Website-wide styling, Main content elements*/
+.leftbody{
+    float: left;
+    padding: 10px 20px 0px;
+    height: 1000px;
+    width: 475px;
+}
+
+.rightbody{
+    height: 1000px;
+    width: 375px;
+    float: right;
+}
+
+.leftbodyAlternate{
+    float: left;
+    height: 1000px;
+    width: 300px;
+}
+
+.rightbodyAlternate{
+    height: 1000px;
+    width: 600px;
+    float: right;
+}
+
+span{
+    color: green;
+    font-size: 25px;
+    font-family: "Bradley Hand ITC", "Brush Script MT", cursive, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Clickable{
+    width: 200px;
+    height: 200px;
+    border: solid green 10px;
+    margin: 10px 0px;
+    border-radius: 10px;
+    position: relative;
+    left: 75px;
+    font-size: 25px;
+    font-family: "Bradley Hand ITC", "Brush Script MT", cursive, sans-serif;
+    font-weight: bold;
+    color: green;
+    background-color: white;
+}
+
+/*Website-wide styling, Footer elements*/
+.footer{
+    width: 880px;
+    height: 300px;
+    position: relative;
+    top:25px;
+    clear:both;
+    background-color: lightgreen;
+    border-radius: 10px;
+    margin: 5px 0px;
+    padding: 10px;
+}
+
+.RBdesign{
+    width: 285px;
+    height: auto;
+    float: left;
+    padding: 0px 50px;
+}
+
+.secondaryNav{
+    float: left;
+    width: 560px;
+    margin-top: 50px;
+}
+
+a{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+/*Page 1*/
+#Chicken1Photo, #Chicken2Photo, #Chicken3Photo, #Road{
+    width: 250px;
+    height: auto;
+    padding: 0 25px;
+}
+
+#Chicken1, #Chicken2, #Chicken3{
+    width: 600px;
+    text-align: center;
+    padding: 5px 0px 10px;
+}
+
+.rightbodyAlternate .Clickable{
+    position: relative;
+    left:175px;
+}
+
+
+/*Page 2*/
+#Show1, #Show2, #Show3{
+    text-align: center;
+    width: 350px;
+    color: green;
+    font-size: 25px;
+    font-family: "Bradley Hand ITC", "Brush Script MT", cursive, sans-serif;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 70px;
+}
+
+.WordRiddles{
+    width: 475px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#letters{
+    width:300px;
+    height: auto;
+    padding-top:50px;
+}
+
+/*Page 3*/
+#GiftCaption{
+    width: 325px;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+#GGD{
+    width: 325px;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+#gift{
+    width:325px;
+    height: auto;
+    position: relative;
+}
